@@ -4,9 +4,9 @@ import { Footer } from '../components/footer';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: 'Farm to Customer - Wapung Farm',
+  title: 'Farm to Customer - Farm Stay',
   description:
-    "Experience the freshness of Wapung Farm's produce delivered directly to your doorstep. Learn about our Farm to Customer program.",
+    "Experience the freshness of Farm Stay's produce delivered directly to your doorstep. Learn about our Farm to Customer program.",
 };
 
 export default function FarmToCustomer() {

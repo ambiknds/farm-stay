@@ -4,9 +4,9 @@ import { Footer } from '../components/footer';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: 'Farmer Producer Organization - Wapung Farm',
+  title: 'Farmer Producer Organization - Farm Stay',
   description:
-    "Learn about Wapung Farm's Farmer Producer Organization and how we support local farmers and sustainable agriculture.",
+    "Learn about Farm Stay's Farmer Producer Organization and how we support local farmers and sustainable agriculture.",
 };
 
 export default function FPO() {
@@ -25,7 +25,7 @@ export default function FPO() {
                   Supporting Local Farmers
                 </h2>
                 <p className="text-base sm:text-lg text-gray-700 mb-6">
-                  Wapung Farm's Farmer Producer Organization (FPO) is dedicated
+                  Farm Stay's Farmer Producer Organization (FPO) is dedicated
                   to empowering local farmers and promoting sustainable
                   agriculture in our community.
                 </p>

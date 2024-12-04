@@ -4,9 +4,9 @@ import { Footer } from '../components/footer';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: 'Farm to Business - Wapung Farm',
+  title: 'Farm to Business - Farm Stay',
   description:
-    'Partner with Wapung Farm for premium, organic produce for your business. Discover our Farm to Business program.',
+    'Partner with Farm Stay for premium, organic produce for your business. Discover our Farm to Business program.',
 };
 
 export default function FarmToBusiness() {
@@ -25,7 +25,7 @@ export default function FarmToBusiness() {
                   Premium Produce for Your Business
                 </h2>
                 <p className="text-base sm:text-lg text-gray-700 mb-6">
-                  Wapung Farm's Farm to Business program provides restaurants,
+                  Farm Stay's Farm to Business program provides restaurants,
                   hotels, and food service companies with the highest quality
                   organic produce. Elevate your offerings with our farm-fresh
                   ingredients.
