@@ -11,7 +11,7 @@ export function Header() {
     <header className="bg-green-700 text-white py-4 px-6 md:px-12">
       <nav className="flex flex-wrap items-center justify-between max-w-6xl mx-auto">
         <Link href="/" className="text-2xl font-bold">
-          Wapung Farm
+          Farm Stay
         </Link>
         <button
           className="md:hidden"

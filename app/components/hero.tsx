@@ -14,7 +14,7 @@ export function Hero() {
       />
       <div className="absolute inset-0 bg-black bg-opacity-50" />
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8">
-        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4">Welcome to Wapung Farm</h1>
+        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4">Welcome to Farm Stay</h1>
         <p className="text-lg sm:text-xl md:text-2xl mb-8">Experience the freshness of organic produce, from our farm to your table</p>
         <Link href="/farm-to-customer" className="bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 sm:py-3 sm:px-6 rounded-full text-base sm:text-lg transition-colors">
           Explore Our Products
